@@ -17,7 +17,7 @@ export default function Home() {
             Plant, Hunt, Survive
           </h2>
           <a
-            href='https://github.com/justin-dupre/Crop-Survival-Web/releases/download/untagged-6b08f191db75daacf266/CropSurvival.exe'
+            href='https://www.dropbox.com/s/mn4um4li2akjqcr/CropSurvival.exe?dl=1'
             target='_blank'
             rel='noopener noreferrer'
             download
