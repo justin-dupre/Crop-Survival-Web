@@ -16,15 +16,22 @@ export default function Home() {
           <h2 style={{ fontSize: 20, textAlign: 'center', marginTop: 10 }}>
             Plant, Hunt, Survive
           </h2>
-          <h3
-            style={{
-              fontSize: 35,
-              textAlign: 'center',
-              marginTop: 30,
-            }}
+          <a
+            href='https://github.com/justin-dupre/Crop-Survival-Web/releases/download/untagged-6b08f191db75daacf266/CropSurvival.exe'
+            target='_blank'
+            rel='noopener noreferrer'
+            download
           >
-            Download now!
-          </h3>
+            <h3
+              style={{
+                fontSize: 35,
+                textAlign: 'center',
+                marginTop: 30,
+              }}
+            >
+              Download now!
+            </h3>
+          </a>
         </div>
       </main>
     </>
